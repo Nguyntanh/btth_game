@@ -42,3 +42,11 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+
+# Added by Gemini CLI to untrack files from commit 7908d70
+/.utmp/
+/.vscode/
+/Assets/
+/Packages/
+/ProjectSettings/
+/btth.slnx
