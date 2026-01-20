@@ -99,3 +99,9 @@ Thumbs.db
 
 # Optional: If you don't want to commit your ProjectSettings/ProjectVersion.txt file
 # ProjectSettings/ProjectVersion.txt
+
+# [Bổ sung cho dự án của bạn]
+.utmp/
+.vscode/
+/[Aa]ssets/StreamingAssets/
+/[Aa]ssets/Plugins/Android/
