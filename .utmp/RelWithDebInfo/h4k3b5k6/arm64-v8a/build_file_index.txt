@@ -1,2 +1,0 @@
-C:\Users\VTC\Desktop\bt_game\btth\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-C:\Users\VTC\Desktop\bt_game\btth\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
